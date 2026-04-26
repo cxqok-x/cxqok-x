@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm CXQOK </h1>
 
-<!--
-**cxqok-x/cxqok-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-gif-link.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+-  I love to be free..... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+
+### 📫 Contact
+- Telegram: @cxqok
+- Telegram channel: @fil7x2
