@@ -17,3 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="100"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="300"/>
+</p>
