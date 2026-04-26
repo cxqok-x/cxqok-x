@@ -35,7 +35,7 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <div align="center">
 
-## `// 01 — About Me`
+— About Me -
 
 </div>
 
@@ -48,9 +48,8 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <div align="center">
 
-## `// 02 — The Arsenal`
+— The Arsenal`-
 
-<!-- Tech Stack with Icons -->
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,kali&theme=light&perline=4" />
 
@@ -63,7 +62,7 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <div align="center">
 
-## `// 03 — GitHub Stats`
+— GitHub Stats`-
 
 <img src="https://github-readme-stats.vercel.app/api?username=cxqok&show_icons=true&theme=default&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=0a0b0d&bg_color=ffffff&ring_color=00e87a" height="165"/>
 &nbsp;&nbsp;
@@ -83,7 +82,7 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <div align="center">
 
-## `// 05 — Connect`
+- Connect`-
 
 *DMs are open. Channel is live. Reach out — I don't bite... unless you're running Windows.*
 
@@ -97,7 +96,6 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <br/><br/>
 
-<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
@@ -112,7 +110,6 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <br/>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
