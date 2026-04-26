@@ -7,12 +7,6 @@
 ### 🚀 About Me
 -  I love to be free..... 
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?logo=kalilinux)
-![Cybersecurity](https://img.shields.io/badge/CyberSecurity-red?logo=hackaday)
 ### 📫 Contact
 - Telegram: @cxqok
 - Telegram channel: @fil7x2
@@ -22,3 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="80"/>
