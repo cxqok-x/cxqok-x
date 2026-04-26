@@ -10,7 +10,9 @@
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
-
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?logo=kalilinux)
+![Cybersecurity](https://img.shields.io/badge/CyberSecurity-red?logo=hackaday)
 ### 📫 Contact
 - Telegram: @cxqok
 - Telegram channel: @fil7x2
