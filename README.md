@@ -56,14 +56,6 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Linux-Expert-00e87a?style=flat-square&logo=linux&logoColor=black&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Bash-Sorcerer-00e87a?style=flat-square&logo=gnubash&logoColor=black&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Python-Phantom-00e87a?style=flat-square&logo=python&logoColor=black&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Kali-Dragon-00e87a?style=flat-square&logo=kalilinux&logoColor=black&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Nmap-Recon-00e87a?style=flat-square&logo=data:image/png;base64,&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Metasploit-Exploit-00e87a?style=flat-square&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Wireshark-PCAP-00e87a?style=flat-square&logo=wireshark&logoColor=black&labelColor=f0f2f5" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-00e87a?style=flat-square&logo=git&logoColor=black&labelColor=f0f2f5" />
 
 </div>
 
