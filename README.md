@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e87a&height=200&section=header&text=CXQOK&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=The%20Free%20Hacker&descAlignY=60&descSize=22&animation=fadeIn&fontFamily=monospace" width="100%"/>
 
-<!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E87A&center=true&vCenter=true&width=600&lines=root%40cxqok%3A~%24+whoami;Offensive+Security+%7C+Linux+Ninja;Bash+Sorcerer+%7C+Python+Phantom;%23!%2Fbin%2Ffreedom;PWN+THE+MATRIX" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status Badge -->
+
 <img src="https://img.shields.io/badge/Status-Online%20%F0%9F%9F%A2-00e87a?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/OS-Kali%20Linux-00e87a?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/Shell-%2Fbin%2Fbash-00e87a?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000" />
@@ -45,12 +43,6 @@ QUOTE      = "The only secure system is the one you fully control."
 > I craft exploits, break systems to understand them, and build tools that serve **absolute freedom**.
 > My philosophy: information wants to be free, and every wall is just a temporary obstacle.
 
-🏴‍☠️ **Offensive Security** enthusiast who lives by the terminal  
-⚡ **Linux Ninja** — Arch/Kali is home, Windows is a crime  
-🎭 **Bash Sorcerer** — scripting solutions others call magic  
-🐉 **Python Phantom** — automation, exploitation, creation  
-🔐 **Cryptography** — because secrets deserve proper locks  
-🌐 **FOSS Evangelist** — free software, free people
 
 ---
 
@@ -92,16 +84,6 @@ QUOTE      = "The only secure system is the one you fully control."
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cxqok&bg_color=ffffff&color=00e87a&line=00e87a&point=000000&area=true&area_color=00e87a22&hide_border=true" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// 04 — Trophy Case`
-
-<img src="https://github-profile-trophy.vercel.app/?username=cxqok&theme=flat&no-frame=true&column=6&margin-w=10&title_color=00e87a" />
 
 </div>
 
