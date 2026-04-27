@@ -48,7 +48,7 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <div align="center">
 
- — The Arsenal -
+ — The Arsenal
 
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,kali&theme=light&perline=4" />
@@ -79,6 +79,7 @@ QUOTE      = "The only secure system is the one you fully control."
 </div>
 
 ---
+
 
 <div align="center">
 
