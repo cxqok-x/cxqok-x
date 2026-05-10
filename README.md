@@ -91,8 +91,8 @@ QUOTE      = "The only secure system is the one you fully control."
   <img src="https://img.shields.io/badge/Telegram-@cxqok-00e87a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://t.me/fil7x2">
-  <img src="https://img.shields.io/badge/Channel-@fil7x2-00e87a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+<a href="https://t.me/fil7x4">
+  <img src="https://img.shields.io/badge/Channel-@fil7x4-00e87a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
