@@ -70,11 +70,11 @@ QUOTE      = "The only secure system is the one you fully control."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxqok&theme=default&hide_border=true&ring=00e87a&fire=00e87a&currStreakLabel=00e87a&background=ffffff&sideLabels=0a0b0d&currStreakNum=0a0b0d&sideNums=0a0b0d&dates=8892a4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxqok-x&theme=default&hide_border=true&ring=00e87a&fire=00e87a&currStreakLabel=00e87a&background=ffffff&sideLabels=0a0b0d&currStreakNum=0a0b0d&sideNums=0a0b0d&dates=8892a4" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cxqok&bg_color=ffffff&color=00e87a&line=00e87a&point=000000&area=true&area_color=00e87a22&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cxqok-x&bg_color=ffffff&color=00e87a&line=00e87a&point=000000&area=true&area_color=00e87a22&hide_border=true" width="98%"/>
 
 </div>
 
