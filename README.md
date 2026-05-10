@@ -25,7 +25,7 @@ ALIAS   = "The Fool"
 KERNEL  = "freedom-6.9.0"
 SHELL   = "/bin/bash"
 TG      = "@cxqok"
-CHANNEL = "@fil7x2"
+CHANNEL = "@fil7x4"
 
 PHILOSOPHY = "No walls. No cages. Pure liberty."
 QUOTE      = "The only secure system is the one you fully control."
