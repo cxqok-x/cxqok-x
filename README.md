@@ -1,53 +1,33 @@
-<!--
-============================================================
-  🎨 COLOR THEME PALETTE — pick one, replace the hex codes
-  below wherever you see PRIMARY / SECONDARY / BG in this file
-  (Ctrl+F / Find & Replace works great here)
-============================================================
-
-  THEME 1 — Matrix Green (default, currently applied)
-  PRIMARY = 00e87a   SECONDARY = 0d1117   BG = 0d1117
-
-  THEME 2 — Cyberpunk Pink
-  PRIMARY = ff2e97   SECONDARY = 00eaff   BG = 0d0221
-
-  THEME 3 — Ocean Blue
-  PRIMARY = 00b4d8   SECONDARY = 03045e   BG = 0a0f1c
-
-  THEME 4 — Sunset Orange
-  PRIMARY = ff6b35   SECONDARY = f7c548   BG = 1a1423
-
-  THEME 5 — Monochrome
-  PRIMARY = e6e6e6   SECONDARY = 8892a4   BG = 000000
-
-  To switch themes: replace 00e87a with your PRIMARY color
-  and 0d1117 with your BG color throughout this file.
-============================================================
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00e87a&height=220&section=header&text=CXQOK&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Security%20Researcher%20%7C%20Systems%20Engineer%20%7C%20Builder&descAlignY=55&descSize=16&animation=fadeIn&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:0d4b3f,100:00e87a&height=240&section=header&text=CXQOK&fontSize=80&fontColor=ffffff&fontAlignY=32&desc=Security%20Researcher%20%C2%B7%20Systems%20Engineer%20%C2%B7%20Builder&descAlignY=52&descSize=17&animation=fadeIn&fontFamily=monospace" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E87A&center=true&vCenter=true&width=650&lines=root%40cxqok%3A~%24+whoami;Offensive+Security+Enthusiast;Linux+%7C+Bash+%7C+Python+%7C+Automation;Building+tools%2C+breaking+things+responsibly;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00E87A&center=true&vCenter=true&width=700&height=60&lines=root%40cxqok%3A~%24+whoami;Offensive+Security+Enthusiast+%F0%9F%9F%A2;Linux+%7C+Bash+%7C+Python+%7C+Automation;Building+tools%2C+breaking+things+responsibly;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=cxqok-x&style=for-the-badge&color=00e87a&labelColor=0d1117" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/cxqok-x?style=for-the-badge&color=00e87a&labelColor=0d1117&label=Followers" />
-<img src="https://img.shields.io/badge/Status-Available-00e87a?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=cxqok-x&style=for-the-badge&color=00e87a&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/cxqok-x?style=for-the-badge&color=00e87a&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e87a?style=for-the-badge&labelColor=0d1117" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/OS-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00e87a&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Shell-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00e87a&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Editor-Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=00e87a&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Build-Passing-0d1117?style=for-the-badge&logo=githubactions&logoColor=00e87a&labelColor=0d1117" />
 
 <br/><br/>
 
 <a href="REPLACE_WITH_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/🌐_Visit_interactive_site-WebGL_particles_%2B_liquid_shader-00e87a?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-WebGL_particles_%2B_liquid_shader-00e87a?style=for-the-badge&labelColor=0d1117" />
 </a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -55,15 +35,23 @@
 
 <div align="center">
 
-### 🧭 Quick Navigation
+### `$ nmap -sV --top-ports 20 cxqok.dev`
 
-[About](#-about) • [Tech Stack](#-tech-stack) • [Stats](#-github-stats) • [Trophies](#-trophies) • [Projects](#-featured-projects) • [Timeline](#-timeline) • [Contact](#-connect)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=400&color=8892A4&center=true&vCenter=true&width=680&height=140&lines=Starting+Nmap+scan...;Host+is+up+(0.0014s+latency).;PORT+++++STATE+++SERVICE;22%2Ftcp+++open++++ssh;443%2Ftcp++open++++https;8080%2Ftcp+open++++proxy;Scan+complete%3A+3+services+identified.;Status%3A+system+secured+%E2%9C%93" alt="terminal simulation" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
+</div>
 
 ## 📌 About
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm **CXQOK** — a systems tinkerer and security researcher who likes understanding how things break so I can help fix them. I spend my time on Linux internals, scripting, and offensive-security fundamentals, and I build small tools that make that work faster and repeatable.
 
@@ -77,6 +65,23 @@ currently:   Learning cloud security + red-team tooling
 philosophy:  "Understand the system before you trust it."
 ```
 
+</td>
+<td width="40%" valign="top">
+
+**Proficiency**
+
+<img src="https://progress-bar.dev/92/?title=Linux&width=220&color=00e87a" /><br/>
+<img src="https://progress-bar.dev/85/?title=Python&width=220&color=00e87a" /><br/>
+<img src="https://progress-bar.dev/88/?title=Bash&width=220&color=00e87a" /><br/>
+<img src="https://progress-bar.dev/70/?title=Networking&width=220&color=00e87a" /><br/>
+<img src="https://progress-bar.dev/65/?title=Cloud%20Sec&width=220&color=00e87a" />
+
+> 💡 Edit the numbers in each `progress-bar.dev` link above to match your real skill level.
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>💬 Click for a random terminal quote</b></summary>
 <br>
@@ -89,7 +94,11 @@ philosophy:  "Understand the system before you trust it."
 
 </details>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
+</div>
 
 ## 🛠 Tech Stack
 
@@ -99,13 +108,19 @@ philosophy:  "Understand the system before you trust it."
 <br/>
 <img src="https://skillicons.dev/icons?i=python,bash,c,js&theme=dark&perline=4" />
 
+<br/>
+
 **Systems & OS**
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,raspberrypi&theme=dark&perline=4" />
 
+<br/>
+
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark&perline=4" />
+
+<br/>
 
 **Security / Networking**
 <br/>
@@ -113,7 +128,11 @@ philosophy:  "Understand the system before you trust it."
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -128,7 +147,11 @@ philosophy:  "Understand the system before you trust it."
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
+</div>
 
 ## 🏆 Trophies
 
@@ -136,7 +159,11 @@ philosophy:  "Understand the system before you trust it."
 <img src="https://github-profile-trophy.vercel.app/?username=cxqok-x&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" />
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -153,7 +180,11 @@ philosophy:  "Understand the system before you trust it."
 
 > 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` above with your actual repo names to pin your best work here.
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
+</div>
 
 ## 🗓 Timeline
 
@@ -167,9 +198,11 @@ philosophy:  "Understand the system before you trust it."
 2026 ─┴─ Currently exploring cloud security & red-team tooling
 ```
 
-> 💡 Edit the years/milestones above to match your real journey.
+<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
+</div>
 
 ## 🤝 Connect
 
@@ -186,22 +219,30 @@ Open to interesting conversations, collaborations, and good problems to solve.
 <a href="mailto:REPLACE_WITH_EMAIL">
   <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e87a&labelColor=0d1117" />
 </a>
+<a href="REPLACE_WITH_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00e87a&labelColor=0d1117" />
+</a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Live contribution graph
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-> *"Understand the system before you trust it."*
-> — **CXQOK**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=8892A4&center=true&vCenter=true&width=600&lines=%22Understand+the+system+before+you+trust+it.%22;%E2%80%94+CXQOK" alt="closing quote" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,25:0d4b3f,50:2c5364,75:203a43,100:0f2027&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
