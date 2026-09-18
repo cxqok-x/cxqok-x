@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<a href="REPLACE_WITH_PORTFOLIO_LINK">
+<a href="cxqokspfp.netlify.app">
   <img src="https://img.shields.io/badge/🌐_LIVE_SITE-WebGL_particles_%2B_liquid_shader-00e87a?style=for-the-badge&labelColor=0d1117" />
 </a>
 
@@ -76,7 +76,6 @@ philosophy:  "Understand the system before you trust it."
 <img src="https://progress-bar.dev/70/?title=Networking&width=220&color=00e87a" /><br/>
 <img src="https://progress-bar.dev/65/?title=Cloud%20Sec&width=220&color=00e87a" />
 
-> 💡 Edit the numbers in each `progress-bar.dev` link above to match your real skill level.
 
 </td>
 </tr>
@@ -165,20 +164,18 @@ philosophy:  "Understand the system before you trust it."
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
 <a href="https://github.com/cxqok-x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=REPLACE_WITH_REPO_1&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=termux-pro&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
 </a>
 <a href="https://github.com/cxqok-x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=REPLACE_WITH_REPO_2&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=pokecatch&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
 </a>
 
 </div>
-
-> 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` above with your actual repo names to pin your best work here.
 
 <br/>
 
@@ -189,13 +186,11 @@ philosophy:  "Understand the system before you trust it."
 ## 🗓 Timeline
 
 ```text
-2023 ─┬─ Started diving into Linux internals & scripting
+2024 ─┬─ Started diving into Linux internals & scripting
       │
-2024 ─┼─ Built first automation / recon tooling
+2025 ─┼─ Built recon tooling
       │
-2025 ─┼─ Focused on offensive security fundamentals
-      │
-2026 ─┴─ Currently exploring cloud security & red-team tooling
+2026 ─┼─ Focused on offensive security fundamentals
 ```
 
 <br/>
@@ -216,11 +211,8 @@ Open to interesting conversations, collaborations, and good problems to solve.
 <a href="https://t.me/fil7x4">
   <img src="https://img.shields.io/badge/Channel-@fil7x4-0d1117?style=for-the-badge&logo=telegram&logoColor=00e87a&labelColor=0d1117" />
 </a>
-<a href="mailto:REPLACE_WITH_EMAIL">
+<a href="mailto:cxqok123@hi2.in">
   <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e87a&labelColor=0d1117" />
-</a>
-<a href="REPLACE_WITH_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00e87a&labelColor=0d1117" />
 </a>
 
 </div>
