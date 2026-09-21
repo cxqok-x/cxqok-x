@@ -1,240 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:0d4b3f,100:00e87a&height=240&section=header&text=CXQOK&fontSize=80&fontColor=ffffff&fontAlignY=32&desc=Security%20Researcher%20%C2%B7%20Systems%20Engineer%20%C2%B7%20Builder&descAlignY=52&descSize=17&animation=fadeIn&fontFamily=monospace" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00E87A&center=true&vCenter=true&width=700&height=60&lines=root%40cxqok%3A~%24+whoami;Offensive+Security+Enthusiast+%F0%9F%9F%A2;Linux+%7C+Bash+%7C+Python+%7C+Automation;Building+tools%2C+breaking+things+responsibly;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=cxqok-x&style=for-the-badge&color=00e87a&labelColor=0d1117&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/cxqok-x?style=for-the-badge&color=00e87a&labelColor=0d1117&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e87a?style=for-the-badge&labelColor=0d1117" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OS-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00e87a&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Shell-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00e87a&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Editor-Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=00e87a&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Build-Passing-0d1117?style=for-the-badge&logo=githubactions&logoColor=00e87a&labelColor=0d1117" />
-
-<br/><br/>
-
-<a href="cxqokspfp.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-WebGL_particles_%2B_liquid_shader-00e87a?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### `$ nmap -sV --top-ports 20 cxqok.dev`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=400&color=8892A4&center=true&vCenter=true&width=680&height=140&lines=Starting+Nmap+scan...;Host+is+up+(0.0014s+latency).;PORT+++++STATE+++SERVICE;22%2Ftcp+++open++++ssh;443%2Ftcp++open++++https;8080%2Ftcp+open++++proxy;Scan+complete%3A+3+services+identified.;Status%3A+system+secured+%E2%9C%93" alt="terminal simulation" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
-</div>
-
-## 📌 About
-
+<!-- ================= HEADER / TERMINAL BANNER ================= -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="38%" align="center">
 
-I'm **CXQOK** — a systems tinkerer and security researcher who likes understanding how things break so I can help fix them. I spend my time on Linux internals, scripting, and offensive-security fundamentals, and I build small tools that make that work faster and repeatable.
-
-```yaml
-role:        Security Researcher / Systems Engineer
-focus:       Linux · Automation · Offensive Security Fundamentals
-based_in:    Manipur, India
-kernel:      freedom-6.9.0
-shell:       /bin/bash
-currently:   Learning cloud security + red-team tooling
-philosophy:  "Understand the system before you trust it."
-```
+<!-- Replace with your own duotone/purple-filtered photo -->
+<!-- How to make it: upload your photo to canva.com or photopea.com,
+     apply a Duotone filter (purple #a855f7 + black), export as .png,
+     put it in an "assets" folder in this repo, and update the src below -->
+<img src="./assets/profile-duotone.png" width="100%" alt="profile"/>
 
 </td>
-<td width="40%" valign="top">
+<td width="62%" valign="top">
 
-**Proficiency**
+```
+┌─[ arifhaxn@profile.md ]───────────────────────────────┐
+```
 
-<img src="https://progress-bar.dev/92/?title=Linux&width=220&color=00e87a" /><br/>
-<img src="https://progress-bar.dev/85/?title=Python&width=220&color=00e87a" /><br/>
-<img src="https://progress-bar.dev/88/?title=Bash&width=220&color=00e87a" /><br/>
-<img src="https://progress-bar.dev/70/?title=Networking&width=220&color=00e87a" /><br/>
-<img src="https://progress-bar.dev/65/?title=Cloud%20Sec&width=220&color=00e87a" />
+**`SYSTEM.INFO`**
 
+| `FIELD`          | `VALUE`                                    |
+|:-----------------|:---------------------------------------------|
+| `Subject`        | [Aapka Naam]                                  |
+| `Role`           | [Aapka Role, e.g., Full-Stack Developer]      |
+| `Origin`         | [Aapka Shehar, Country]                       |
+| `Education`      | [Aapki University / Degree]                   |
+| `Status`         | Building · Learning · Shipping                |
+| `ToolChain`      | VS Code, Git, Android Studio, Figma           |
+| `Core.Lang`      | [Dart, C++, Python]                           |
+| `Core.FrontEnd`  | [Flutter, React]                              |
+| `Core.BackEnd`   | [Node.js]                                     |
+| `Core.Database`  | [Firebase, MongoDB]                           |
+| `Core.Infra`     | [Vercel, Netlify, AWS]                        |
+| —                | —                                              |
+| `grid.mail`      | [[email protected]]                        |
+| `grid.linkedin`  | [linkedin.com/in/your-id]                     |
+| `grid.github`    | [github.com/GitHubUsername]                   |
+
+```
+└─────────────────────────────────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>💬 Click for a random terminal quote</b></summary>
-<br>
+</div>
+
+---
+
+<!-- ================= GITHUB STATS & ACTIVITY ================= -->
+<div align="center">
+
+## `📡 SYSTEM.STATS`
+
+<!-- Total Contributions | Current Streak | Longest Streak (auto 3-column widget) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=radical&hide_border=true&background=0D0221&stroke=a855f7&ring=e879f9&fire=ff00ff&currStreakLabel=c084fc&sideLabels=c084fc&sideNums=ffffff" alt="streak stats" width="90%"/>
+
+<br/>
+
+<!-- GitHub Stats card + Most Used Languages, side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=e879f9&text_color=c084fc" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=default&theme=radical&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=c084fc" alt="Most Used Languages" width="41%"/>
+
+<br/><br/>
+
+<!-- The block-grid contribution calendar shows automatically further down
+     on your real github.com/[GitHubUsername] profile page — nothing to add here. -->
+
+</div>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+<div align="center">
+
+## `💾 FEATURED.PROJECTS`
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Project One Name]
+[Ek line mein project ka short description.]
+
+`Flutter` `Firebase` `Dart`
+
+⭐ ![Stars](https://img.shields.io/github/stars/[GitHubUsername]/[repo-one]?style=flat-square&color=a855f7&labelColor=0d0221)
+🍴 ![Forks](https://img.shields.io/github/forks/[GitHubUsername]/[repo-one]?style=flat-square&color=e879f9&labelColor=0d0221)
+
+[`→ View Repo`](https://github.com/[GitHubUsername]/[repo-one])
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Project Two Name]
+[Ek line mein project ka short description.]
+
+`React` `Node.js` `MongoDB`
+
+⭐ ![Stars](https://img.shields.io/github/stars/[GitHubUsername]/[repo-two]?style=flat-square&color=a855f7&labelColor=0d0221)
+🍴 ![Forks](https://img.shields.io/github/forks/[GitHubUsername]/[repo-two]?style=flat-square&color=e879f9&labelColor=0d0221)
+
+[`→ View Repo`](https://github.com/[GitHubUsername]/[repo-two])
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Project Three Name]
+[Ek line mein project ka short description.]
+
+`Python` `Django` `PostgreSQL`
+
+⭐ ![Stars](https://img.shields.io/github/stars/[GitHubUsername]/[repo-three]?style=flat-square&color=a855f7&labelColor=0d0221)
+🍴 ![Forks](https://img.shields.io/github/forks/[GitHubUsername]/[repo-three]?style=flat-square&color=e879f9&labelColor=0d0221)
+
+[`→ View Repo`](https://github.com/[GitHubUsername]/[repo-three])
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Project Four Name]
+[Ek line mein project ka short description.]
+
+`Flutter` `REST API` `Provider`
+
+⭐ ![Stars](https://img.shields.io/github/stars/[GitHubUsername]/[repo-four]?style=flat-square&color=a855f7&labelColor=0d0221)
+🍴 ![Forks](https://img.shields.io/github/forks/[GitHubUsername]/[repo-four]?style=flat-square&color=e879f9&labelColor=0d0221)
+
+[`→ View Repo`](https://github.com/[GitHubUsername]/[repo-four])
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+
+## `📡 UPLINK.CHANNELS`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/[LinkedInUsername])
+[![Instagram](https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=e879f9)](https://instagram.com/[InstagramUsername])
+[![Facebook](https://img.shields.io/badge/Facebook-0d0221?style=for-the-badge&logo=facebook&logoColor=a855f7)](https://facebook.com/[FacebookUsername])
+[![Mail](https://img.shields.io/badge/Mail-0d0221?style=for-the-badge&logo=gmail&logoColor=e879f9)](mailto:[[email protected]])
 
 ```
-"The quieter you become, the more you can hear."
-"Code never lies, comments sometimes do."
-"There is no patch for human stupidity."
+> connection_terminated
+> thanks for visiting :: [GitHubUsername]_
 ```
 
-</details>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
-</div>
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Languages & Scripting**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,bash,c,js&theme=dark&perline=4" />
-
-<br/>
-
-**Systems & OS**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,raspberrypi&theme=dark&perline=4" />
-
-<br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark&perline=4" />
-
-<br/>
-
-**Security / Networking**
-<br/>
-<img src="https://skillicons.dev/icons?i=wireshark,postman&theme=dark&perline=4" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cxqok-x&show_icons=true&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117&ring_color=00e87a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxqok-x&layout=compact&theme=dark&hide_border=true&title_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxqok-x&theme=dark&hide_border=true&ring=00e87a&fire=00e87a&currStreakLabel=00e87a&background=0d1117&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8892a4" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cxqok-x&bg_color=0d1117&color=00e87a&line=00e87a&point=ffffff&area=true&area_color=00e87a22&hide_border=true" width="98%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cxqok-x&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
-</div>
-
-## 🚀 Projects
-
-<div align="center">
-
-<a href="https://github.com/cxqok-x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=termux-pro&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-</a>
-<a href="https://github.com/cxqok-x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cxqok-x&repo=pokecatch&theme=dark&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e87a,100:0d1117&height=3&section=header" width="100%"/>
-</div>
-
-## 🗓 Timeline
-
-```text
-2024 ─┬─ Started diving into Linux internals & scripting
-      │
-2025 ─┼─ Built recon tooling
-      │
-2026 ─┼─ Focused on offensive security fundamentals
-```
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00e87a&height=3&section=header" width="100%"/>
-</div>
-
-## 🤝 Connect
-
-<div align="center">
-
-Open to interesting conversations, collaborations, and good problems to solve.
-
-<a href="https://t.me/cxqok">
-  <img src="https://img.shields.io/badge/Telegram-@cxqok-0d1117?style=for-the-badge&logo=telegram&logoColor=00e87a&labelColor=0d1117" />
-</a>
-<a href="https://t.me/fil7x4">
-  <img src="https://img.shields.io/badge/Channel-@fil7x4-0d1117?style=for-the-badge&logo=telegram&logoColor=00e87a&labelColor=0d1117" />
-</a>
-<a href="mailto:cxqok123@hi2.in">
-  <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e87a&labelColor=0d1117" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Live contribution graph
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=8892A4&center=true&vCenter=true&width=600&lines=%22Understand+the+system+before+you+trust+it.%22;%E2%80%94+CXQOK" alt="closing quote" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,25:0d4b3f,50:2c5364,75:203a43,100:0f2027&height=150&section=footer&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=[GitHubUsername]&color=a855f7&style=flat-square&label=SIGNAL+RECEIVED)
 
 </div>
