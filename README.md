@@ -3,20 +3,10 @@
 <!-- ================= BOOT ANIMATION ================= -->
 <!-- Self-drawing neon terminal border + typing boot sequence + blinking cursor.
      This is a real animated SVG (not a GIF) — it plays automatically on GitHub. -->
-<img src="/assets/terminal-animation.svg" width="90%" alt="terminal boot animation"/>
+<img src="./assets/terminal-animation.svg" width="90%" alt="terminal boot animation"/>
 
 <br/><br/>
 
-<!-- ================= HEADER / TERMINAL BANNER ================= -->
-<table>
-<tr>
-<td width="38%" align="center">
-
-<!-- Replace with your own duotone/purple-filtered photo -->
-<!-- How to make it: upload your photo to canva.com or photopea.com,
-     apply a Duotone filter (purple #a855f7 + black), export as .png,
-     put it in an "assets" folder in this repo, and update the src below -->
-<img src="./assets/profile-duotone.png" width="100%" alt="profile"/>
 
 </td>
 <td width="62%" valign="top">
