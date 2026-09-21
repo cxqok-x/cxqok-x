@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- ================= BOOT ANIMATION ================= -->
+<!-- Self-drawing neon terminal border + typing boot sequence + blinking cursor.
+     This is a real animated SVG (not a GIF) — it plays automatically on GitHub. -->
+<img src="./assets/terminal-animation.svg" width="90%" alt="terminal boot animation"/>
+
+<br/><br/>
+
 <!-- ================= HEADER / TERMINAL BANNER ================= -->
 <table>
 <tr>
