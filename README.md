@@ -72,8 +72,9 @@
 
 <br/><br/>
 
-<!-- This renders only after you add .github/workflows/snake.yml (included in this zip) to your cxqok-x/cxqok-x repo and let the Action run once — see note below the code. -->
-<img src="https://raw.githubusercontent.com/cxqok-x/cxqok-x/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/cxqok-x/cxqok-x/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 </div>
 
