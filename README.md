@@ -8,7 +8,7 @@
 
 ---
 
-## — Terminal —
+## — #Whoami —
 
 ```
 cxqok@profile.sh — #whoami
@@ -150,7 +150,7 @@ STATUS: ONLINE
 
 ![Streak](https://streak-stats.demolab.com/?user=cxqok-x&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&background=ffffff&sideLabels=0a0b0d&currStreakNum=0a0b0d&sideNums=0a0b0d&dates=8892a4)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cxqok-x&bg_color=ffffff&color=a855f7&line=a855f7&point=000000&area=true&area_color=a855f722&hide_border=true)
+<!--![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cxqok-x&bg_color=ffffff&color=a855f7&line=a855f7&point=000000&area=true&area_color=a855f722&hide_border=true) -->
 
 ---
 
