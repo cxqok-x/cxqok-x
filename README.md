@@ -145,8 +145,8 @@ STATUS: ONLINE
 
 ## — GitHub Stats —
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxqok-x&show_icons=true&theme=default&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=0a0b0d&bg_color=ffffff&ring_color=a855f7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxqok-x&layout=compact&theme=default&hide_border=true&title_color=a855f7&text_color=0a0b0d&bg_color=ffffff)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxqok-x&show_icons=true&theme=default&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=0a0b0d&bg_color=ffffff&ring_color=a855f7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxqok-x&layout=compact&theme=default&hide_border=true&title_color=a855f7&text_color=0a0b0d&bg_color=ffffff) -->
 
 ![Streak](https://streak-stats.demolab.com/?user=cxqok-x&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&background=ffffff&sideLabels=0a0b0d&currStreakNum=0a0b0d&sideNums=0a0b0d&dates=8892a4)
 
