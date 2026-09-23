@@ -1,14 +1,5 @@
 <!-- © cxqok — [cxqok] — original work, all rights reserved — github.com/cxqok-x -->
 
-```
-   ██████╗██╗  ██╗ ██████╗  ██████╗ ██╗  ██╗
-  ██╔════╝╚██╗██╔╝██╔═══██╗██╔═══██╗██║ ██╔╝
-  ██║      ╚███╔╝ ██║   ██║██║   ██║█████╔╝
-  ██║      ██╔██╗ ██║▄▄ ██║██║   ██║██╔═██╗
-  ╚██████╗██╔╝ ██╗╚██████╔╝╚██████╔╝██║  ██╗
-   ╚═════╝╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝
-```
-
 ## — About Me —
 
 > I'm **CXQOK** — a free spirit and cyber wanderer roaming the digital underground.
